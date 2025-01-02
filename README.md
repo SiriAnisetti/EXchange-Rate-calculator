@@ -1,2 +1,2 @@
 # EXchange-Rate-calculator
-https://github.com/user-attachments/assets/171b4461-db31-46ac-b0b0-28d74c721929
+![Exchange rate calculator](https://github.com/user-attachments/assets/175e291a-8d3a-45bd-be80-78e170c4fbdd)
